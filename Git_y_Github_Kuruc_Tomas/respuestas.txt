@@ -1,0 +1,4 @@
+a) Git es un software de control de versiones diseñado por Linus Torvalds.
+Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end. Sin embargo, Git se ha convertido desde entonces en un sistema de control de versiones, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+b) El 4 de junio de 2018, Microsoft compró GitHub
+c) Desde la interfaz grafica de la pagina web de gitHub se puede trabajar. Sin embargo la terminal agiliza mucho las tareas e interacciones.
